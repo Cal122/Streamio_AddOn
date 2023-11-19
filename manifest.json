@@ -1,0 +1,14 @@
+{
+    "id": "community.No",
+    "version": "0.0.1",
+    "catalogs": [],
+    "resources": [],
+    "types": ["movie", "series", "channel", "tv"],
+    "name": "No ratings",
+    "description": "Removes the IMDB ratings",
+    "filter": {
+      "metadata": ["ratings"]
+      
+      
+    }
+  }
